@@ -4,7 +4,7 @@ I am a Software Engineer by profession, currently working in [Robin.io - A Rakut
 ---
 ## Education
 1. MS CS (Incoming Grad student in Fall 2023) at [University of Wisconsin-Madison](https://www.cs.wisc.edu/)
-2. B.E. Information Technology at [PICT, Pune (Affiliated to SPPU])(https://pict.edu/)
+2. B.E. Information Technology at [PICT, Pune (Affiliated to SPPU)](https://pict.edu/)
 ---
 
 ## Work Experience
@@ -18,3 +18,9 @@ I am a Software Engineer by profession, currently working in [Robin.io - A Rakut
 
 ## Publication
 - Sahil N., et al [A study of cryptographic file systems in userspace](https://turcomat.org/index.php/turkbilmat/article/view/5192/4343)
+
+---
+### Extra-curriculars
+I like writing blogs, travelling and combining these two.
+Find my work here: [Medium](https://medium.com/@naphadesahil)
+[GeeksForGeek](https://auth.geeksforgeeks.org/user/naphadesahil/articles?utm_source=geeksforgeeks&utm_medium=article_author&utm_campaign=auth_user)
