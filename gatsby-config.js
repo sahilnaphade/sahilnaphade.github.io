@@ -1,58 +1,48 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://sahilnaphade.github.io/`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Sahil Naphade',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Sahil Naphade | Storage, Cloud, ML`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Hi there! I am Sahil, MS CS student at UW Madion, Exp. Grad. Fall 2025`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    // author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/sahilnaphade`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/sahilnaphade/`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `I am an experienced Storage software engineer with experience in Kubernetes, Docker, Cloud, Machine learning and AI.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'Devfolio',
+        name: 'FlexPushdownDB',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          'Research project on a cloud-native OLAP database. Created a new join algorithm for databases using Local and remote memory using SmartNICs. Actual contributions are in a private branch.',
+        link: 'https://github.com/cloud-olap/FlexPushdownDB',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: 'I/O Optimized External sort algorithm',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          'An I/O optimized external sort algorithm to sort >120GiB of data in a 100MiB memory environment, emulated SSD and HDD for the performance and created advanced data structures like Tournament Tree of Losers',
+        link: 'https://github.com/divy9881/External-Sorting-for-Databases',
       },
-      {
-        name: 'Another Cool Project',
-        description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
+      // {
+      //   name: 'Another Cool Project',
+      //   description:
+      //     'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
+      //   link: 'https://github.com/RyanFitzgerald/devfolio',
+      // },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
-      },
-      {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Robin.io',
+        description: 'Software Engineer - Storage engineering',
+        link: 'https://www.robin.io/',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +50,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'C, C++, Python, Golang (Go), Django, Flask',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'PostreSQL, MySQL, MongoDB, Redis',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Kubernetes, Amazon Web Services (AWS), Microservices, REST API development,  CI / CD, Agile / Scrum',
       },
     ],
   },
