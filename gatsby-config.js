@@ -5,9 +5,9 @@ module.exports = {
     // Your Name
     name: 'Sahil Naphade',
     // Main Site Title
-    title: `Sahil Naphade | Storage, Cloud, ML`,
+    title: `Sahil Naphade | Databases, Storage, Cloud`,
     // Description that goes under your name in main bio
-    description: `Hi there! I am Sahil, MS CS student at UW Madion, Exp. Grad. Fall 2025`,
+    description: `Hi there! I am Sahil, MS CS student at UW Madion, Exp. Grad. Spring 2025`,
     // Optional: Twitter account handle
     // author: `@rfitzio`,
     // Optional: Github account URL
@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/sahilnaphade/`,
     // Content of the About Me section
-    about: `I am an experienced Storage software engineer with experience in Kubernetes, Docker, Cloud, Machine learning and AI.`,
+    about: `I am a Software engineer who is passionate about databases and storage technologies. With experience in Kubernetes, Docker, Cloud, Machine learning and AI, I am sure to be a great addition to your team!`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
@@ -40,6 +40,10 @@ module.exports = {
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
+        name: 'Nutanix, Inc.',
+        description: 'Member of Technical Staff, Intern',
+      },
+      {
         name: 'Robin.io',
         description: 'Software Engineer - Storage engineering',
         link: 'https://www.robin.io/',
@@ -50,7 +54,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'C, C++, Python, Golang (Go), Django, Flask',
+          'C, C++, Python, Golang (Go), Rust, Django, Flask',
       },
       {
         name: 'Databases',
