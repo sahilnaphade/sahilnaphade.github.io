@@ -42,6 +42,7 @@ module.exports = {
       {
         name: 'Nutanix, Inc.',
         description: 'Member of Technical Staff, Intern',
+        link: 'https://www.nutanix.com/products/database-service',
       },
       {
         name: 'Robin.io',
